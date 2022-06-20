@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @wooyongpark
 - 👀 I’m interested in vim
-- 🌱 I’m currently learning springboot & nodejs
+- 🌱 I have some experience in springboot & p5 canvas & nodejs
+- ✨ I am currently learning nestjs & aws networks!
 
 <!---
 wooyongpark/wooyongpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
